@@ -46,7 +46,7 @@ The current script uses the `medium` Whisper model, which gives a good balance b
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/audio-transcriber.git
+git clone https://github.com/JordiCorbilla/audio-transcriber.git
 cd audio-transcriber
 ```
 
