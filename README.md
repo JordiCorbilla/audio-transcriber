@@ -27,8 +27,6 @@ Detected language: en with probability 1.00
 audio-transcriber/
 │
 ├── transcriber.py
-├── transcript.txt
-├── Recording 2.wav
 └── README.md
 ```
 
